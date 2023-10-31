@@ -1,5 +1,5 @@
 # About Me
-I'm Alekzander, a senior student at the  Southern Indiana Career and Tech Center. I'm excited to share that I'll be pursuing a degree in Cybersecurity and Networking at Murray State University, and my career goal is to become a System Administrator. I'm enthusiastic about entering the workforce in this role and am dedicated to building the skills and knowledge required to excel in the field.
+I'm Alekzander, a senior student at the  Southern Indiana Career and Tech Center. I'm excited to share that I'll be pursuing a degree in Cybersecurity and Networking at Murray State University, and my career goal is to become a System Administrator. I'm enthusiastic about entering the workforce in this role and am dedicated to building the skills and knowledge required to excel in the field. This repo consites of some of my  work in the Indiana Career and Tech Center. The following images below are an example of a client project for the tech centers built in restruant/cullenary arts program. 
 
 # Lunch Box Client Project V1
 
