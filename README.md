@@ -9,7 +9,7 @@ Three examples of main UI in XML Rev1:
 <img src="https://github.com/ZMANG1980/Portfolio-/blob/main/Images/Main Page.png" height="200px" width="400px"></kbd><br>
 
 2. More Options:
-  <img src="https://https://github.com/ZMANG1980/Portfolio-/blob/main/Images/More Options.png" height="200px" width="400px"></kbd><br>
+  <img src="https://github.com/ZMANG1980/Portfolio-/blob/main/Images/More Options.png" height="200px" width="400px"></kbd><br>
 
 3. Calculator:
  <img src="https://github.com/ZMANG1980/Portfolio-/blob/main/Images/Calculator.png" height="200px" width="400px"></kbd><br>
